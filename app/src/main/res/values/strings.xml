@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Cuentanos</string>
+
+    <string name="facebook_app_id">1954514031502977</string>
+    <string name="fb_login_protocol_scheme">fb1954514031502977</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="correo">Correo</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="reptir_contrasena">Repetir Contraseña</string>
+    <string name="registrarse">Registrar</string>
+    <string name="caracteres_contra">mínimo 4 caracteres</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="olvidar_contrasena">¿Olvidaste Tu Contraseña?</string>
+    <string name="cerrar">Cerrar Sesión</string>
+    <string name="registroFracasado">No se pudo registrar el usuario</string>
+    <string name="registroExitoso">Registro exitoso</string>
+    <string name="espera">Espere por Favor...</string>
+    <string name="usuario_no_logueado">Usuario y/o Contraseña incorrectos</string>
+
+    <string-array name="Errores">
+        <item>Contraseña Invalida</item>
+        <item>Correo Invalido</item>
+        <item>Contraseña no Coinciden</item>
+        <item>Campo Vacio</item>
+        <item>Usuario no Existente</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="categorias">Categorias</string>
+    <string name="promociones">Promociones</string>
+    <string name="guardar">Guardar</string>
+
+    <!-- Categorias -->
+    <string name="restaurantes">Restaurantes</string>
+    <string name="Bares">Bares</string>
+    <string name="hospitales">Hospitales</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="universidad">Universidades</string>
+    <string name="barberias">Barberías</string>
+    <string name="Supermercados">Supermercados</string>
+    <string name="veterinarias">Veterinarias</string>
+    <string name="Compras">Compras</string>
+    <string name="cines">Cines</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="notificacion">Permitir Notificaciones</string>
+    <string name="alarmas">Permitir Alarmas</string>
+    <string name="recibir_email">Recibir correos de Cuentanos</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+
+</resources>

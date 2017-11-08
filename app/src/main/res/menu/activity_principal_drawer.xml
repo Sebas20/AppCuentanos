@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_resenas"
+            android:icon="@drawable/resenas"
+            android:title="Reseñas" />
+        <item
+            android:id="@+id/nav_checkin"
+            android:icon="@drawable/check"
+            android:title="Check-In" />
+
+    </group>
+    <item android:title="">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_principal"
+                    android:icon="@drawable/ic_menu_search"
+                    android:title="Principal" />
+                <item
+                    android:id="@+id/nav_perfil"
+                    android:icon="@drawable/ic_perfil"
+                    android:title="Perfil" />
+                <item
+                    android:id="@+id/nav_configurar"
+                    android:icon="@drawable/ic_menu_configuracion"
+                    android:title="Configuración" />
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="Salir">
+        <menu>
+            <item
+                android:id="@+id/nav_cerrar_sesion"
+                android:icon="@drawable/ic_menu_cerrar_sesion"
+                android:title="@string/cerrar" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "653814239298",
+    "firebase_url": "https://appcuentanos.firebaseio.com",
+    "project_id": "appcuentanos",
+    "storage_bucket": "appcuentanos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653814239298:android:62654bc432f27851",
+        "android_client_info": {
+          "package_name": "com.sebastian.appcuentanos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653814239298-jvaagbu956odhld1etg9puj6g5f7g0rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sebastian.appcuentanos",
+            "certificate_hash": "5b3a621a19776ebaabd2d1d2a879c35346c556a8"
+          }
+        },
+        {
+          "client_id": "653814239298-kb54n08on97bgcu8eiu04pijanp2gr68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sebastian.appcuentanos",
+            "certificate_hash": "f1fc0ad743c4a72962d12d3fb842056a43287422"
+          }
+        },
+        {
+          "client_id": "653814239298-p0qnohkpqh6th8amqarjcjib752cahok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7kwpJ20dd9kpbENbZ0WWgP_1ZpcBg7X4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653814239298-p0qnohkpqh6th8amqarjcjib752cahok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653814239298:android:bab61e0265115dd4",
+        "android_client_info": {
+          "package_name": "com.sebastian.llenarbasededatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653814239298-bgf0skqmmo6t7s9bp2o14695puavdr35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sebastian.llenarbasededatos",
+            "certificate_hash": "f1fc0ad743c4a72962d12d3fb842056a43287422"
+          }
+        },
+        {
+          "client_id": "653814239298-p0qnohkpqh6th8amqarjcjib752cahok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7kwpJ20dd9kpbENbZ0WWgP_1ZpcBg7X4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653814239298-p0qnohkpqh6th8amqarjcjib752cahok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
